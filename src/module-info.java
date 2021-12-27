@@ -1,0 +1,2 @@
+module MyfirstApplication {
+}
